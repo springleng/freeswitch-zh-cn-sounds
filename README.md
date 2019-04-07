@@ -15,6 +15,9 @@
 
 <https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse/docs/phrase/phrase_zh_CN.xml>
 
+原始地址：
+<https://git.coding.net/dujinfang/zh.git>
+
 使用许可：
 
 本录音资料基于MPL许可证发布。使用和再发布时需确保本包含本README以及LICENSE。
